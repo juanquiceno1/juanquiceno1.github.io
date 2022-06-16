@@ -73961,7 +73961,7 @@ A.OH.prototype={
 I(a,b){var s=null,r=A.a5(b)
 return A.c1(s,A.ee(A.a([A.bV("Recent Files",s,s,s,s,s,s,s,A.a5(b).R8.w,s,s,s,s,s),A.bU(s,s,17976931348623157e292)],t.p),B.bG,B.a4,B.K),B.q,s,s,new A.cB(r.dy,s,s,B.cs,s,s,B.aj),s,s,s,s,new A.al(16,16,16,16),s,s,s)}}
 A.B7.prototype={
-I(a,b){var s=null,r=A.a([new A.JX(A.y8("assets/images/logo.png",s),s),new A.i9("Dashboard","assets/icons/menu_dashbord.svg",new A.abn(),s),new A.i9("Transaction","assets/icons/menu_tran.svg",new A.abo(),s),new A.i9("Task","assets/icons/menu_task.svg",new A.abp(),s),new A.i9("Documents","assets/icons/menu_doc.svg",new A.abq(),s),new A.i9("Store","assets/icons/menu_store.svg",new A.abr(),s),new A.i9("Notification","assets/icons/menu_notification.svg",new A.abs(),s),new A.i9("Profile","assets/icons/menu_profile.svg",new A.abt(),s),new A.i9("Settings","assets/icons/menu_setting.svg",new A.abu(b),s)],t.p),q=A.aT([null,0],t.LO,t.S)
+I(a,b){var s=null,r=A.a([new A.JX(A.y8("assets/images/logo.png",s),s),new A.i9("Dashboard","assets/icons/menu_dashbord.svg",new A.abn(),s),new A.i9("Transaction","assets/icons/menu_tran.svg",new A.abo(),s),new A.i9("Task","assets/icons/menu_task.svg",new A.abp(),s),new A.i9("Documents","assets/icons/menu_doc.svg",new A.abq(),s),new A.i9("Store","assets/icons/menu_store.svg",new A.abr(),s),new A.i9("Notification","assets/icons/menu_notification.svg",new A.abs(),s),new A.i9("Profile","assets/icons/menu_profile.svg",new A.abt(),s),new A.i9("Theme","assets/icons/menu_setting.svg",new A.abu(b),s)],t.p),q=A.aT([null,0],t.LO,t.S)
 return new A.JV(new A.Lf(new A.acI(!0,!0,!0,r,q),s,B.b0,!1,s,!0,B.DF,!1,s,9,B.aC,B.Ck,s,B.aS,s),s)}}
 A.abn.prototype={
 $0(){},
