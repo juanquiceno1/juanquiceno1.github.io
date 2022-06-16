@@ -1,6 +1,6 @@
 {
-    "name": "admin_template",
-    "short_name": "admin_template",
+    "name": "template_admin",
+    "short_name": "template_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
